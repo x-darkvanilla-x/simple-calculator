@@ -1,3 +1,9 @@
+/*
+    Linkedin : Dipesh Adelkar
+    Instagram : @x_darkvanilla_x 
+    Github : @x-darkvanilla-x 
+*/
+
 function insert(num) {
   document.form1.textview.value = document.form1.textview.value + num;
 }

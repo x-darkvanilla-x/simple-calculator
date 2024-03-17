@@ -1,3 +1,9 @@
+/*
+    Linkedin : Dipesh Adelkar
+    Instagram : @x_darkvanilla_x 
+    Github : @x-darkvanilla-x 
+*/
+
 :root {
     --primary-color-light: #e0e0e0;
     --secondary-color-light: #f6f6f6;
@@ -161,4 +167,19 @@ input:checked+.slider:before {
     --box-shadow-color: var(--box-shadow-color-dark);
     --border-color: var(--border-color-dark);
     --text-color: var(--text-color-dark);
+}
+
+@media only screen and (max-width: 600px) {
+    td
+    {
+        width: 3.5em;
+        height: 3.5em;
+    }
+
+    table{
+        width: 300px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
 }

@@ -7,11 +7,9 @@
 
 This is a basic web-based calculator implemented using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-<!--
 ## Demo
 
-You can view a live demo of the calculator here : (https://example.com).
--->
+You can view a live demo of the calculator here : ([https://example.com](https://calculator-by-dips.netlify.app/)).
 
 ## Features
 
